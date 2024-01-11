@@ -1,4 +1,4 @@
 package com.slimeheroes.heroes.magicians;
 
-public class Magician3rdClass {
+public class Magician3rdClass extends Magician {
 }

@@ -1,4 +1,15 @@
 package com.slimeheroes.heroes.magicians;
 
-public abstract class Magician {
+import com.slimeheroes.heroes.HeroesImpl;
+
+public class Magician implements HeroesImpl {
+    @Override
+    public void attak() {
+        System.out.println("공격합니다.");
+    }
+
+    @Override
+    public void avoid() {
+
+    }
 }

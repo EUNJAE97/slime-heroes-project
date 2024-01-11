@@ -1,4 +1,4 @@
 package com.slimeheroes.heroes.archers;
 
-public class Archer3rdClass {
+public class Archer3rdClass extends Archer{
 }
