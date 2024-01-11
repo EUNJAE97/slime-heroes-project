@@ -1,2 +1,4 @@
-package com.slimeheroes.monsters;public interface MonstersImpl {
+package com.slimeheroes.monsters;
+
+public interface MonstersImpl {
 }

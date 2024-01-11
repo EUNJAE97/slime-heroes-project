@@ -1,4 +1,4 @@
-package com.slimeheroes.heroes;
+package com.slimeheroes.heroes.warriors;
 
 public abstract class Warrior {
 }

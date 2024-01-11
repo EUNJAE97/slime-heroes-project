@@ -1,4 +1,4 @@
-package com.slimeheroes.monsters;
+package com.slimeheroes.monsters.slime;
 
 public class Slime {
 }

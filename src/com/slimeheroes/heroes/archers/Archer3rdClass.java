@@ -1,2 +1,4 @@
-package com.slimeheroes.heroes.archers;public class Archer3rdClass {
+package com.slimeheroes.heroes.archers;
+
+public class Archer3rdClass {
 }

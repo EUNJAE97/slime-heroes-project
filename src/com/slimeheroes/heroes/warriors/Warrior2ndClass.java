@@ -1,2 +1,4 @@
-package com.slimeheroes.heroes.warriors;public class Warrior2ndClass {
+package com.slimeheroes.heroes.warriors;
+
+public class Warrior2ndClass {
 }

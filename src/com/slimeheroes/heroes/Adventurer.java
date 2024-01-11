@@ -1,2 +1,4 @@
-package com.slimeheroes.heroes;public class Adventurer {
+package com.slimeheroes.heroes;
+
+public abstract class Adventurer {
 }
